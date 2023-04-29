@@ -1,0 +1,15 @@
+C:\Users\Vito\Desktop\Parcial\PRUEBA 2\corto_dos\corto_dos\bin\Debug\net7.0\corto_dos.exe
+C:\Users\Vito\Desktop\Parcial\PRUEBA 2\corto_dos\corto_dos\bin\Debug\net7.0\corto_dos.deps.json
+C:\Users\Vito\Desktop\Parcial\PRUEBA 2\corto_dos\corto_dos\bin\Debug\net7.0\corto_dos.runtimeconfig.json
+C:\Users\Vito\Desktop\Parcial\PRUEBA 2\corto_dos\corto_dos\bin\Debug\net7.0\corto_dos.dll
+C:\Users\Vito\Desktop\Parcial\PRUEBA 2\corto_dos\corto_dos\bin\Debug\net7.0\corto_dos.pdb
+C:\Users\Vito\Desktop\Parcial\PRUEBA 2\corto_dos\corto_dos\obj\Debug\net7.0\corto_dos.csproj.AssemblyReference.cache
+C:\Users\Vito\Desktop\Parcial\PRUEBA 2\corto_dos\corto_dos\obj\Debug\net7.0\corto_dos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vito\Desktop\Parcial\PRUEBA 2\corto_dos\corto_dos\obj\Debug\net7.0\corto_dos.AssemblyInfoInputs.cache
+C:\Users\Vito\Desktop\Parcial\PRUEBA 2\corto_dos\corto_dos\obj\Debug\net7.0\corto_dos.AssemblyInfo.cs
+C:\Users\Vito\Desktop\Parcial\PRUEBA 2\corto_dos\corto_dos\obj\Debug\net7.0\corto_dos.csproj.CoreCompileInputs.cache
+C:\Users\Vito\Desktop\Parcial\PRUEBA 2\corto_dos\corto_dos\obj\Debug\net7.0\corto_dos.dll
+C:\Users\Vito\Desktop\Parcial\PRUEBA 2\corto_dos\corto_dos\obj\Debug\net7.0\refint\corto_dos.dll
+C:\Users\Vito\Desktop\Parcial\PRUEBA 2\corto_dos\corto_dos\obj\Debug\net7.0\corto_dos.pdb
+C:\Users\Vito\Desktop\Parcial\PRUEBA 2\corto_dos\corto_dos\obj\Debug\net7.0\corto_dos.genruntimeconfig.cache
+C:\Users\Vito\Desktop\Parcial\PRUEBA 2\corto_dos\corto_dos\obj\Debug\net7.0\ref\corto_dos.dll
